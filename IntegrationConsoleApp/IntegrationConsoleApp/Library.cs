@@ -10,7 +10,7 @@ namespace IntegrationConsoleApp
 	{
 		public int GetInt(string nombre)
 		{
-			return int.Parse(nombre) + 1;
+			return int.Parse(nombre);
 		}
 	}
 }
