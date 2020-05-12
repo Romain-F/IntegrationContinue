@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace IntegrationConsoleApp
 {
-	class Library
+	public class Library
 	{
 		public int GetInt(string nombre)
 		{
